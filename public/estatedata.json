@@ -1,0 +1,138 @@
+[
+    {
+      "image": "https://i.ibb.co/kXKx2Tm/87324751.jpg",
+      "estate_title": "Grand View Hotel",
+      "id": 1,
+      "segment_name": "Hotels",
+      "description": "Experience unparalleled luxury at the Grand View Hotel. Our spacious rooms offer stunning city views, and our world-class amenities include a rooftop pool, spa, and fine dining restaurants.",
+      "price": 350,
+      "status": "sale",
+      "area": "3000 sq ft",
+      "location": "New York City",
+      "facilities": [
+        "Living Room",
+        "Swimming Pool",
+        "Kitchen (In-suite)",
+        "Spa",
+        "Fitness Center"
+      ],
+      "amenities": [
+        "WI-Fi",
+        "Safety Box",
+        "Satellite/Cable TV"
+      ]
+    },
+    {
+      "image": "https://i.ibb.co/QQnKMpr/serenity-makadi-beach-0.jpg",
+      "estate_title": "Serenity Beach Resort",
+      "id": 2,
+      "segment_name": "Resorts",
+      "description": "Unwind and reconnect with nature at Serenity Beach Resort. Nestled on a pristine beachfront, our resort offers comfortable accommodations, exciting water activities, and delicious dining options.",
+      "price": 200,
+      "status": "rent",
+      "area": "1500 sq ft",
+      "location": "Tulum, Mexico",
+      "facilities": [
+        "Living Room",
+        "Balcony (Ocean View)",
+        "Beach Access",
+        "Swimming Pool",
+        "Restaurant"
+      ] ,
+      "amenities": [
+        "WI-Fi",
+        "Coffee/ Tea Maker",
+        "Laundry Services"
+      ]   },
+    {
+      "image": "https://i.ibb.co/MZzQ0vs/Contemporary-Mountain-Home-Dennis-Zirbel-02-1-Kindesign.jpg",
+      "estate_title": "Cozy Mountain Lodge",
+      "id": 3,
+      "segment_name": "Lodges",
+      "description": "Enjoy a cozy winter getaway at the Cozy Mountain Lodge. Our rustic lodge offers ski-in/ski-out access, a crackling fireplace, and breathtaking mountain views.",
+      "price": 150,
+      "status": "rent",
+      "area": "1000 sq ft",
+      "location": "Lake Tahoe, CA",
+      "facilities": [
+        "Living Room with Fireplace",
+        "Balcony (Mountain View)",
+        "Ski Storage",
+        "Hot Tub",
+        "Shared Kitchen"
+      ],
+      "amenities": [
+        "WI-Fi",
+        "Coffee/ Tea Maker",
+        "Satellite/Cable TV"
+      ] 
+    },
+    {
+      "image": "https://i.ibb.co/ck9vV8s/Highres-Screenshot00008-min-1920x1080-12a5c10c509d37b289842692cc4298d5.jpg ",  "estate_title": "Roadside Haven Motel",
+      "id": 4,
+      "segment_name": "Motels",
+      "description": "Enjoy a comfortable and convenient stay at the Roadside Haven Motel. Our clean and affordable rooms are perfect for travelers on the go. We offer amenities like free Wi-Fi and parking.",
+      "price": 80,
+      "status": "sale",
+      "area": "500 sq ft",
+      "location": "Des Moines, IA",
+      "facilities": [
+        "Cable TV",
+        "Free Wi-Fi",
+        "Parking",
+        "Pet-friendly (some restrictions may apply)"
+      ],
+      "amenities": [
+        "WI-Fi",
+        "Coffee/ Tea Maker",
+        "Hot & Cool Water"
+      ] 
+    },
+    {
+      "image": "https://i.ibb.co/yfq9cqd/AFM-Landenberg-PA-27-Feature.webp",
+      "estate_title": "The Historic Farmhouse",
+      "id": 5,
+      "segment_name": "Guesthouses",
+      "description": "Step back in time and experience the charm of a historic farmhouse. This beautifully restored guesthouse offers comfortable accommodations, a taste of local history, and a peaceful countryside setting.",
+      "price": 120,
+      "status": "rent",
+      "area": "1200 sq ft",
+      "location": "Napa Valley, CA",
+      "facilities": [
+        "Shared Living Room",
+        "Bedroom",
+        "Breakfast Included",
+        "Gardens",
+        "Walking Trails"
+      ],
+      "amenities": [
+        "WI-Fi",
+        "Coffee/ Tea Maker",
+        "Air Conditioning"
+      ] 
+    },
+    {
+        "image": "https://i.ibb.co/jgGRtff/Luxury-Duplex-Loft-Apartment-Brazil-2.jpg",
+        "estate_title": "Modern City Loft",
+        "id": 4,
+        "segment_name": "Vacation Rentals",
+        "description": "Experience city living at its finest in this modern loft apartment. Located in the heart of downtown, the apartment offers stunning views, stylish furnishings, and easy access to all the city's attractions.",
+        "price": 250,
+        "price": 250,
+        "status": "rent",
+        "area": "800 sq ft",
+        "location": "Chicago, IL",
+        "facilities": [
+          "Living Room",
+          "Bedroom",
+          "Modern Kitchen",
+          "Gym (In-building)",
+          "Rooftop Terrace"
+        ],
+        "amenities": [
+          "WI-Fi",
+          "Coffee/ Tea Maker",
+          "Mini Refrigerator"
+        ] 
+    }
+]  
